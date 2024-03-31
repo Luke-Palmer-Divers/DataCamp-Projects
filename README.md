@@ -54,6 +54,5 @@ You can view my project [here](https://github.com/Luke-Palmer-Divers/DataCamp-Pr
 ### 7. Grocery Store Sales 🏪
 You can view my project [here](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/blob/main/SQL/Grocery%20Store%20Sales/Grocery%20Store%20Sales.ipynb)
 ### 8. When Was the Golden Era of Video Games? 🎮
-You can view my project [here](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/blob/main/SQL/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses.ipynb)
-
+You can view my project [here](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/blob/main/SQL/When%20Was%20the%20Golden%20Era%20of%20Video%20Games/When%20Was%20the%20Golden%20Era%20of%20Video%20Games.ipynb)
 
