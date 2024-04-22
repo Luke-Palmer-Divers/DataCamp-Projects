@@ -33,7 +33,7 @@ ___
 ### 1.  Analyzing Unicorn Companies 🦄
 🔑 Key Learnings
  - Used CTEs to find the top industries producing the highest valuations.
- - joined multiple tables and filtered queires using CTEs
+ - joined multiple tables and filtered queries using CTEs
    
 You can view my project [here](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/blob/main/SQL/Analyzing%20Unicorn%20Companies/Analyzing%20Unicorn%20Companies.ipynb)
 
