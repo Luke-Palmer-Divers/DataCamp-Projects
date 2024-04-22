@@ -1,5 +1,5 @@
 # DataCamp-Projects
-## 📶 Guided projects using [Python](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/tree/main/Python) and [PostgreSQL](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/tree/main/SQL)
+## 📶 Guided projects using [Python](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/tree/main/Python) and [SQL](https://github.com/Luke-Palmer-Divers/DataCamp-Projects/tree/main/SQL)
 ### <ins>Python Projects:</ins> 
 ### 1. Dr. Semmelweis and the Discovery of Handwashing 🧼
 🔑 Key Learnings
